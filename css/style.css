@@ -350,7 +350,7 @@ a {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding-bottom: 520px;
+  padding-bottom: 100px;
 }
 
 .main__title {
@@ -408,7 +408,7 @@ a {
 }
 
 .design-wrapper {
-  padding-bottom: 100px;
+  padding-bottom: 150px;
 }
 
 .design-block {
